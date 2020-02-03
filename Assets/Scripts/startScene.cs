@@ -13,6 +13,7 @@ public class startScene : MonoBehaviour
     public GameObject twoToThreeButton;
     public GameObject nameOrder;
     public GameObject threeToFourButton;
+    public GameObject registerDia;
 
     // Start is called before the first frame update
     void Start()
@@ -21,6 +22,7 @@ public class startScene : MonoBehaviour
         twoToThreeButton.SetActive(false);
         threeToFourButton.SetActive(false);
         nameOrder.SetActive(false);
+        registerDia.SetActive(false);
     }
 
     // Update is called once per frame
@@ -42,6 +44,7 @@ public class startScene : MonoBehaviour
         twoToThreeButton.SetActive(false);
         threeToFourButton.SetActive(false);
         startButton.SetActive(false);
+        registerDia.SetActive(false);
 
         startScenePressed = true;
     }

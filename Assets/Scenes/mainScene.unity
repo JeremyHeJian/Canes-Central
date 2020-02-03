@@ -351,8 +351,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 341431603}
-  - component: {fileID: 341431602}
   - component: {fileID: 341431604}
+  - component: {fileID: 341431602}
   - component: {fileID: 341431605}
   - component: {fileID: 341431606}
   m_Layer: 0
@@ -379,6 +379,7 @@ MonoBehaviour:
   anim: {fileID: 1631373620}
   oneToTwoButton: {fileID: 1238897965}
   twoToThreeButton: {fileID: 2114616344}
+  registerDia: {fileID: 673884269}
 --- !u!4 &341431603
 Transform:
   m_ObjectHideFlags: 0
@@ -414,6 +415,7 @@ MonoBehaviour:
   twoToThreeButton: {fileID: 2114616344}
   nameOrder: {fileID: 1592913520}
   threeToFourButton: {fileID: 108605639}
+  registerDia: {fileID: 673884269}
 --- !u!114 &341431605
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -856,7 +858,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &673884270
 RectTransform:
   m_ObjectHideFlags: 0
@@ -874,8 +876,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 450, y: 400}
+  m_AnchoredPosition: {x: 487, y: 185}
+  m_SizeDelta: {x: 480, y: 360}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &673884271
 MonoBehaviour:
@@ -2975,7 +2977,7 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2114216901}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []

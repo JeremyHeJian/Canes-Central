@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6EC794C1-88C5-DB9B-D13E-F0D774898CD1}</ProjectGuid>
+    <ProjectGuid>{9B7DB483-B40B-7F08-6098-F8D20C6B168B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Oculus.VR</AssemblyName>
@@ -139,10 +139,10 @@
     <None Include="Assets\Oculus\VR\Resources\Underlay Impostor.shader" />
     <None Include="Assets\Oculus\VR\Plugins\placeholder.txt" />
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

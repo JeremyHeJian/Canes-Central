@@ -9,6 +9,7 @@ public class oneToTwo : MonoBehaviour
     public Animation anim;
     public GameObject oneToTwoButton;
     public GameObject twoToThreeButton;
+    public GameObject registerDia;
 
     // Start is called before the first frame update
     void Start()
@@ -29,10 +30,6 @@ public class oneToTwo : MonoBehaviour
         oneToTwoButton.SetActive(false);
         twoToThreeButton.SetActive(true);
 
-        anim.CrossFade("reachout_00");
-        anim.Play();
-        //anim.Stop();
-
         mainCamera.transform.position = new Vector3(-3562, 174, -501);
         mainCamera.transform.eulerAngles = new Vector3(0, 180, 0);
         mainCamera.SetActive(true);
@@ -40,5 +37,10 @@ public class oneToTwo : MonoBehaviour
         student.transform.position = new Vector3(-3551, 1.3f, -690);
         student.transform.eulerAngles = new Vector3(0, 180, 0);
 
+        registerDia.SetActive(true);
+
+        anim.CrossFade("reachout_00");
+        anim.Play();
+        //anim.Stop();
     }
 }

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0D08F8FD-8B49-6F2C-DCDA-D5889FC13841}</ProjectGuid>
+    <ProjectGuid>{1D411041-011C-134A-79A9-2B2FBFC87D39}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Oculus.VR.Editor</AssemblyName>
@@ -88,16 +88,16 @@
     <None Include="Assets\Oculus\VR\Editor\network_sec_config.xml" />
     <None Include="Assets\Oculus\VR\Editor\Oculus.VR.Editor.asmdef" />
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -298,7 +298,7 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.12f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -657,7 +657,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Oculus.VR.csproj">
-      <Project>{6EC794C1-88C5-DB9B-D13E-F0D774898CD1}</Project>
+      <Project>{9B7DB483-B40B-7F08-6098-F8D20C6B168B}</Project>
       <Name>Oculus.VR</Name>
     </ProjectReference>
   </ItemGroup>

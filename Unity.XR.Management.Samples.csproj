@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{87F661CE-3817-8C2E-9C36-30BA10B401D0}</ProjectGuid>
+    <ProjectGuid>{2F8AE563-03B6-9D69-9C81-28AFFD89D351}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.XR.Management.Samples</AssemblyName>
@@ -68,22 +68,22 @@
     <Compile Include="Assets\Samples\XR Management\3.0.3\Example XR Management implementation\SampleSettings.cs" />
     <None Include="Assets\Samples\XR Management\3.0.3\Example XR Management implementation\Unity.XR.Management.Samples.asmdef" />
     <Reference Include="Unity.XR.Management.Editor">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Management">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -284,7 +284,7 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.12f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>

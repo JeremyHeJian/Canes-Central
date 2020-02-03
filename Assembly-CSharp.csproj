@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{07E91EAC-368B-2327-EB79-E4D78F1CCAEB}</ProjectGuid>
+    <ProjectGuid>{A0222446-D60C-B796-C672-00B8B627F30C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -481,52 +481,52 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab\Materials\CrosshairZCheat.shader" />
     <Reference Include="Unity.XR.Management">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Subsystem.Registration">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Management.Editor">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/jxl2047/Desktop/CanesCentral2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/jxl2047/Desktop/Canes-Central/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -1056,23 +1056,23 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Oculus.VR.Editor.csproj">
-      <Project>{0D08F8FD-8B49-6F2C-DCDA-D5889FC13841}</Project>
+      <Project>{1D411041-011C-134A-79A9-2B2FBFC87D39}</Project>
       <Name>Oculus.VR.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.VR.Scripts.Editor.csproj">
-      <Project>{D2E4EDAE-7300-449D-570D-C0E0DBDCA455}</Project>
+      <Project>{DCE834A0-FB0E-45D8-9D38-883239A46E96}</Project>
       <Name>Oculus.VR.Scripts.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.VR.csproj">
-      <Project>{6EC794C1-88C5-DB9B-D13E-F0D774898CD1}</Project>
+      <Project>{9B7DB483-B40B-7F08-6098-F8D20C6B168B}</Project>
       <Name>Oculus.VR</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Management.Samples.csproj">
-      <Project>{87F661CE-3817-8C2E-9C36-30BA10B401D0}</Project>
+      <Project>{2F8AE563-03B6-9D69-9C81-28AFFD89D351}</Project>
       <Name>Unity.XR.Management.Samples</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Management.Samples.Editor.csproj">
-      <Project>{1B0D99AA-7889-25FD-59D9-39D611C3BC03}</Project>
+      <Project>{859DD26D-7763-B174-74DC-C667526D3A2A}</Project>
       <Name>Unity.XR.Management.Samples.Editor</Name>
     </ProjectReference>
   </ItemGroup>
