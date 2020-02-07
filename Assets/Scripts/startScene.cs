@@ -7,6 +7,7 @@ public class startScene : MonoBehaviour
     public float moveSpeed = 100.0f;
     public Animation anim;
     public GameObject student;
+    public GameObject staff;
     public bool startScenePressed;
     public GameObject oneToTwoButton;
     public GameObject startButton;
@@ -14,15 +15,22 @@ public class startScene : MonoBehaviour
     public GameObject nameOrder;
     public GameObject threeToFourButton;
     public GameObject registerDia;
+    public GameObject nameDia;
+    public GameObject fourToFiveButton;
+    public GameObject fiveToSixButton;
 
     // Start is called before the first frame update
     void Start()
     {
+        staff.SetActive(false);
         oneToTwoButton.SetActive(false);
         twoToThreeButton.SetActive(false);
         threeToFourButton.SetActive(false);
         nameOrder.SetActive(false);
         registerDia.SetActive(false);
+        nameDia.SetActive(false);
+        fourToFiveButton.SetActive(false);
+        fiveToSixButton.SetActive(false);
     }
 
     // Update is called once per frame
@@ -45,6 +53,7 @@ public class startScene : MonoBehaviour
         threeToFourButton.SetActive(false);
         startButton.SetActive(false);
         registerDia.SetActive(false);
+        nameDia.SetActive(false);
 
         startScenePressed = true;
     }

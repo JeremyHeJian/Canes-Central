@@ -8,12 +8,15 @@ public class threeToFour : MonoBehaviour
     public GameObject threeToFourButton;
     public Animation anim;
     public GameObject mainCamera;
+    public GameObject nameDia;
+    public GameObject fourToFiveButton;
 
     // Start is called before the first frame update
     void Start()
     {
         anim = student.GetComponent<Animation>();
         anim.Play();
+        fourToFiveButton.SetActive(false);
     }
 
     // Update is called once per frame
@@ -24,7 +27,10 @@ public class threeToFour : MonoBehaviour
 
     public void threeToFourPressed()
     {
+        nameDia.SetActive(false);
+
         threeToFourButton.SetActive(false);
+        fourToFiveButton.SetActive(true);
 
         mainCamera.transform.position = new Vector3(-4003, 174, -446);
         mainCamera.transform.eulerAngles = new Vector3(0, -30, 0);

@@ -16,7 +16,7 @@ public class oneToTwo : MonoBehaviour
     {
         anim = student.GetComponent<Animation>();
         anim.Play();
-        
+        registerDia.SetActive(false);
     }
 
     // Update is called once per frame
@@ -34,13 +34,12 @@ public class oneToTwo : MonoBehaviour
         mainCamera.transform.eulerAngles = new Vector3(0, 180, 0);
         mainCamera.SetActive(true);
 
-        student.transform.position = new Vector3(-3551, 1.3f, -690);
+        student.transform.position = new Vector3(-3597, 1.3f, -690);
         student.transform.eulerAngles = new Vector3(0, 180, 0);
 
-        registerDia.SetActive(true);
-
-        anim.CrossFade("reachout_00");
         anim.Play();
-        //anim.Stop();
+        anim.CrossFade("reachout_00");
+
+        registerDia.SetActive(true);
     }
 }

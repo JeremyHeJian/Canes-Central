@@ -349,6 +349,8 @@
     <Compile Include="Assets\Oculus\Spatializer\scripts\ONSPSettings.cs" />
     <Compile Include="Assets\Oculus\Spatializer\scripts\ONSPVersion.cs" />
     <Compile Include="Assets\Scripts\cameraStart.cs" />
+    <Compile Include="Assets\Scripts\fiveToSix.cs" />
+    <Compile Include="Assets\Scripts\fourToFive.cs" />
     <Compile Include="Assets\Scripts\moveForward.cs" />
     <Compile Include="Assets\Scripts\oneToTwo.cs" />
     <Compile Include="Assets\Scripts\startScene.cs" />

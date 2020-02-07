@@ -625,6 +625,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Collab: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -645,10 +646,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 52d83f52-3fc7-49d2-901f-f2d4d331ffdd
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: CanesCentral2
+  organizationId: jxl2047
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

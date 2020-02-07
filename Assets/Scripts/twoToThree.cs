@@ -10,6 +10,8 @@ public class twoToThree : MonoBehaviour
     public Animation anim;
     public GameObject student;
     public GameObject threeToFourButton;
+    public GameObject registerDia;
+    public GameObject nameDia;
 
     // Start is called before the first frame update
     void Start()
@@ -27,12 +29,16 @@ public class twoToThree : MonoBehaviour
 
     public void twoToThreePressed()
     {
+        anim.CrossFade("idle_00");
+        anim.Play();
+
+        registerDia.SetActive(false);
+
         twoToThreeButton.SetActive(false);
         threeToFourButton.SetActive(true);
 
         nameOrder.SetActive(true);
 
-        anim.Play();
-        anim.CrossFade("idle_00");
+        nameDia.SetActive(true);
     }
 }
